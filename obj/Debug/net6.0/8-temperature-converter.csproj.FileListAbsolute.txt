@@ -1,0 +1,15 @@
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/bin/Debug/net6.0/8-temperature-converter
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/bin/Debug/net6.0/8-temperature-converter.deps.json
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/bin/Debug/net6.0/8-temperature-converter.runtimeconfig.json
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/bin/Debug/net6.0/8-temperature-converter.dll
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/bin/Debug/net6.0/8-temperature-converter.pdb
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/obj/Debug/net6.0/8-temperature-converter.csproj.AssemblyReference.cache
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/obj/Debug/net6.0/8-temperature-converter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/obj/Debug/net6.0/8-temperature-converter.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/obj/Debug/net6.0/8-temperature-converter.AssemblyInfo.cs
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/obj/Debug/net6.0/8-temperature-converter.csproj.CoreCompileInputs.cache
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/obj/Debug/net6.0/8-temperature-converter.dll
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/obj/Debug/net6.0/refint/8-temperature-converter.dll
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/obj/Debug/net6.0/8-temperature-converter.pdb
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/obj/Debug/net6.0/8-temperature-converter.genruntimeconfig.cache
+/Users/joseconejerosivo/Proyectos C#/8-temperature-converter/obj/Debug/net6.0/ref/8-temperature-converter.dll
